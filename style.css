@@ -33,7 +33,7 @@ figure{
     margin-top: 10px;
 }
 figure img{
-    filter: drop-shadow(0 0 3px #00adb5);
+    filter: drop-shadow(4px 4px #00adb5);
     border-radius: 20px;
     margin-left: 15px;
     margin-bottom: 15px;
@@ -62,4 +62,11 @@ footer{
     color: red;
     margin-left: 10px;
     font-size: 30px;
+}
+a{
+    color: #eeeeee;
+    text-decoration: none;
+}
+a:hover{
+    color: orangered;
 }
